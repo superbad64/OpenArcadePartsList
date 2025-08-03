@@ -38,7 +38,7 @@ Mash to your heart's content
 
 All-inclusive projects that come with a custom(-ish) PCB and a case
 
-- [The OG Flatbox](https://github.com/jfedor2/flatbox) - The one that pretty much started all this humdrum (jfedor)
+- [The OG Flatbox](https://github.com/jfedor2/flatbox) - One of, if not the first 3D printed slimbox designs (jfedor)
 - [Summit](https://github.com/michaelswitzer/granola-summit) - Flatbox style build (Granola Arcade)
 - [Open UA PCB](https://github.com/Ultra-Arcade/open-ua-pcb) - Collection of open source hardware designs including PCBs (Ultra Arcade)
 - [Meisterbox S](https://github.com/AlpenmeisterCustoms/MeisterboxS) - Pocket sized hinged leverless (AlpenmeisterCustoms)
@@ -62,7 +62,7 @@ The true support class of the hobby
 Yep, we're doing those too
 
 - [The Em](https://github.com/MerlinDesigns/hardware/tree/main/em-controller) - Handheld all-buttons controller with keys on the back (MerlinDesigns)
-- [FightWedge V3](https://makerworld.com/en/models/1252376-fightwedgev3-buttons-joysticks-and-top-plates) - Fightpad style controller almost entirely printed (BananaFaction)
+- [FightWedge V3](https://makerworld.com/en/models/1252376-fightwedgev3-buttons-joysticks-and-top-plates) - Fightpad style controller almost entirely 3D printed (BananaFaction)
 
 ## Replacement parts
 
@@ -81,7 +81,7 @@ Things I couldn't categorize anywhere else
 - [Assorted miscellaneous arcade parts](https://github.com/superbad64/MiscArcadeParts) - Random parts I use when designing builds. Could be useful (Yours Truly)
 - [Cebollita](https://www.thingiverse.com/thing:6922631) - Adapter to mount a OLED display through a 24 or 30mm button hole (Breakfast Garage Gaming)
 - [Terminal cover](https://www.thingiverse.com/thing:7063132) - When you really want that ugly screw terminal block out of your sight (hduchuy)
-- [Super recessed bat top](https://www.printables.com/model/1221243-recessed-battop-for-sanwa-jlf-joystick) - If you think the same as above, but for more common sticks (RAF)
+- [Super recessed bat top](https://www.printables.com/model/1221243-recessed-battop-for-sanwa-jlf-joystick) - When you don't need *that much* height on top of your shaft (RAF)
 - [Topper display rack](https://www.printables.com/model/1191817-arcade-stick-topper-display) - Be honest, we're all proud of that one topper hand turned by a Tibetan monk out of a several centuries old cedar tree. No ? Just me ? (MoreDoor Gaming)
 - [Snap-in button removal tool](https://www.printables.com/model/82812-sanwa-obsf-30-30mm-snap-button-removal-push-tool) - Lets you remove snap-in buttons without breaking the locking tabs (lucipher)
 - [Neutrik surround](https://www.thingiverse.com/thing:3894623) and [support](https://www.thingiverse.com/thing:4737064/files) - Helps make the Neutrik passthrough a bit more sturdy. Also looks good with accent colors (flyingsi77 and techjed respectively)
@@ -91,7 +91,7 @@ Things I couldn't categorize anywhere else
 Looking for help ?
 
 - [The Cheatbox Project](https://github.com/misternoe/cheatbox/tree/main) - To meme harder than ever before (misternoe)
-- [Wren's writeups](https://github.com/wrencrt/writeups/tree/main) - Random writeups about hardware
+- [Wren's writeups](https://github.com/wrencrt/writeups/tree/main) - Random writeups about hardware (wren)
 - [DIY Parts List](https://docs.google.com/document/d/1YFR8DGsDyLYqQ7UkB1_cf4ZwmfC_Ln1Jml1cG_QWm5M/edit?usp=sharing) - A *very* exhaustive parts guide to plan your next project (Makai Arcade)
 - [Sleeving guide](https://youtu.be/OxTbOVYCiN4?si=c8c46yE879FutnQT) - For when you want to go the extra mile and manage those wires properly (Makai Arcade)
 - [Soldering tutorial](https://youtu.be/wX1dZIC0Gp0?si=N-0MDsTaZ_P8itur) - Sometimes you have to get things hot (nerrage, found on the SRK archive)
